@@ -1,0 +1,59 @@
+------------------------------------------------
+|Energy Bills Data Modelling & Analysis Log File|
+------------------------------------------------
+
+Date: 03-04-2024,
+Host: LAPTOP-1K6UBJL7
+Log file: Logs\Data_analytics_LAPTOP-1K6UBJL7_03-04-2024_logfile.txt
+Meteorological data loaded in and processed. 
+https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/suttonboningtondata.txt
+
+Raw energy bills and costs data has been processed
+
+------------------------------------------------
+|Energy Bills Data Modelling & Analysis Log File|
+------------------------------------------------
+
+Date: 03-04-2024,
+Host: LAPTOP-1K6UBJL7
+Log file: Logs\Data_analytics_LAPTOP-1K6UBJL7_03-04-2024_logfile.txt
+Meteorological data loaded in and processed. 
+https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/suttonboningtondata.txt
+
+Raw energy bills and costs data has been processed
+
+------------------------------------------------
+|Energy Bills Data Modelling & Analysis Log File|
+------------------------------------------------
+
+Date: 03-04-2024,
+Host: LAPTOP-1K6UBJL7
+Log file: Logs\Data_analytics_LAPTOP-1K6UBJL7_03-04-2024_logfile.txt
+Meteorological data loaded in and processed. 
+https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/suttonboningtondata.txt
+
+Raw energy bills and costs data has been processed
+
+------------------------------------------------
+|Energy Bills Data Modelling & Analysis Log File|
+------------------------------------------------
+
+Date: 03-04-2024,
+Host: LAPTOP-1K6UBJL7
+Log file: Logs\Data_analytics_LAPTOP-1K6UBJL7_03-04-2024_logfile.txt
+Meteorological data loaded in and processed. 
+https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/suttonboningtondata.txt
+
+Raw energy bills and costs data has been processed
+
+------------------------------------------------
+|Energy Bills Data Modelling & Analysis Log File|
+------------------------------------------------
+
+Date: 03-04-2024,
+Host: LAPTOP-1K6UBJL7
+Log file: Logs\Data_analytics_LAPTOP-1K6UBJL7_03-04-2024_logfile.txt
+Meteorological data loaded in and processed. 
+https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/suttonboningtondata.txt
+
+Raw energy bills and costs data has been processed

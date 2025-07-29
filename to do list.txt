@@ -1,0 +1,56 @@
+To do list 08/08/23:
+
+(1) Fix and sort modelling of electricity, gas and cost data
+	- Cross-correlate electricity-gas, electricity-cost and gas-cost
+
+(2) Process meteorological data - weather data
+	- Read in data file correctly
+(3) Analyse meteorological data - weather data
+	- Initially assess each column of data
+	- Time series analysis of each parameter
+	- Pearson correlation of electricity -
+
+(4) Analyse the energy consumption data alongside the meteorological data - weather data
+	- Cross-correlate datasets?
+
+(5) Develop the GUI app
+	- Load in a dataset(s)
+	- Visualise the dataset(s) - matplotlib
+		-> Configure the type of plot to output
+	- Visualise the dataset(s) - tabulated spreadsheet format
+	- Output the summary data - text file 
+	- Output the summary data - tabulated spreadsheet format
+
+	- Add functionality to process pdf statement and read in datasets
+
+-----------
+Forecasting
+-----------
+Framework 1
+(1) Load in raw dataset
+(2) Process raw datasets - Gas, electricity & cost
+(3) Reduce dimensionality - 1D data
+(4) Model 1D data as function of time - regression
+(5) Forecast/Predict 1D data - time instance
+(6) Unpack and reverse dimensionality reduction
+(7) Print forecasting - gas, electricity and cost
+
+Framework 2:
+(1) Load in raw dataset
+(2) Process raw datasets - Gas, electricity & cost
+(3) Model Gas as function of time
+(4) Model electricity as function of time
+(5) Model cost as a function of gas and electricity
+(6) Forecast/Predict gas and electricity - time instance
+(7) Estimate cost based on forecased gas and electricity usage
+(8) Print forecasting - gas, electricity and cost
+
+Once 1-2 years of data has been collected:
+Framework 3
+(1) Load in raw dataset
+(2) Process raw datasets - Gas, electricity & cost
+(3) Reduce dimensionality - 1D data
+(4) Model 1D data as function of time - SARIMA
+(5) Forecast/Predict 1D data - time instance
+(6) Unpack and reverse dimensionality reduction
+(7) Print forecasting - gas, electricity and cost

@@ -1,0 +1,46 @@
+------------------------------------------------
+|Energy Bills Data Modelling & Analysis Log File|
+------------------------------------------------
+
+Date: 11-11-2023,
+Host: LAPTOP-1K6UBJL7
+Log file: Logs\Data_analytics_LAPTOP-1K6UBJL7_11-11-2023_logfile.txt
+------------------------------------------------
+|Energy Bills Data Modelling & Analysis Log File|
+------------------------------------------------
+
+Date: 11-11-2023,
+Host: LAPTOP-1K6UBJL7
+Log file: Logs\Data_analytics_LAPTOP-1K6UBJL7_11-11-2023_logfile.txt
+------------------------------------------------
+|Energy Bills Data Modelling & Analysis Log File|
+------------------------------------------------
+
+Date: 11-11-2023,
+Host: LAPTOP-1K6UBJL7
+Log file: Logs\Data_analytics_LAPTOP-1K6UBJL7_11-11-2023_logfile.txt
+Meteorological data loaded in and processed. 
+https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/suttonboningtondata.txt
+
+Raw energy bills and costs data has been processed
+
+Data cluster (grouping) analysis:
+Number of clusters: 3
+
+Energy bill usage statistics:
+Total gas consumption: 350.21 m³
+Average gas consumption: 38.91 ± 35.66 m³
+Total electricity consumption: 1700.0 Kwh
+Average electricity consumption: 188.89 ± 40.89 kWh
+Total energy bills spent: £1108.81
+Average energy bills spent: £123.2 ± £51.04 
+
+Energy bills modelling Electricity_TH performance:
+1-variable model, polynomial: order 1
+r-squared value: 0.992
+Energy bills modelling Gas_TH performance:
+1-variable model, polynomial: order 5
+r-squared value: 0.827
+Energy bills modelling Gas_Electricity_Cost performance:
+2-variable model, polynomial: order 2
+r-squared value: 0.985
